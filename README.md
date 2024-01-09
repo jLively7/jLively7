@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jLively7 = "Joshua"
+- 👋 Hi, I’m Joshua!
 - 👀 I’m interested in gaining experience
 - 🌱 I’m currently learning javascript
 - 📫 You can reach me here
